@@ -1,6 +1,6 @@
 # Programa de Gastos Mensais
 
-## Descrição (TODO)
+## Descrição
 
 O Programa de Gastos Mensais é uma aplicação que permite aos usuários controlarem suas despesas e receitas de forma eficiente. Ele oferece recursos para realizar o login, registrar novas contas, adicionar e visualizar despesas e receitas, além de fornecer detalhes sobre as despesas por categoria.
 
