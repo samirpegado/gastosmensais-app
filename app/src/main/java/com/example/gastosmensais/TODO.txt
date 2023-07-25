@@ -1,0 +1,41 @@
+Programa de Gastos Mensais
+
+Tela de Login:
+## Apresentar a tela de login com os seguintes elementos:
+Botão de "Login": Ao clicar, abrirá uma janela para inserir e-mail e senha.
+Botão de "Registrar": Ao clicar, abrirá uma janela com campos para preencher
+(nome, último nome, e-mail e senha) para criar uma nova conta.
+
+## Tela de Registro:
+Ao selecionar o botão "Registrar", apresentar os campos a serem preenchidos pelo usuário:
+Nome.
+Último nome.
+E-mail.
+Senha.
+
+## Tela Principal (Tela 1):
+Após o login bem-sucedido, saudar o usuário com uma mensagem de "Hello, [username]".
+Exibir uma faixa com o mês do balancete atual.
+Incluir um botão de seta para baixo ("arrow down"), permitindo selecionar meses passados ou futuros.
+Adicionar um botão de "Adicionar" no canto inferior direito, que permitirá ao usuário inserir novas despesas e receitas.
+Adicionar Despesas e Receitas:
+Ao clicar no botão "Adicionar", abrir uma janela com os seguintes campos a serem preenchidos:
+Valor: montante da despesa ou receita.
+Título: descrição curta da despesa ou receita.
+Categoria: seleção da categoria associada à despesa/receita (criar um Plano de Contas com categorias predefinidas).
+Descrição: campo opcional para adicionar mais detalhes sobre a transação.
+Data: data da despesa ou receita.
+Despesa se repete? Opção para marcar se a despesa se repete em meses seguintes.
+Se sim, em quantos meses: campo para indicar em quantos meses a despesa se repetirá.
+# Exibição das Receitas e Despesas:
+Na tela principal (Tela 1), exibir as receitas acima e as despesas abaixo.
+Agrupar as despesas e receitas por categoria.
+Exibir os valores totais de receitas e despesas para o mês corrente.
+
+## Detalhes das Despesas:
+Ao clicar em uma categoria específica, abrir uma nova tela (Tela 2) que mostra os detalhes sobre cada despesa associada a essa categoria.
+Na tela de detalhes (Tela 2), permitir a exclusão e edição de cada despesa individualmente.
+
+## Armazenamento em API:
+Integrar todas as informações inseridas em uma base de dados na forma de API.
+Garantir que os dados sejam armazenados de forma segura e protegida.
