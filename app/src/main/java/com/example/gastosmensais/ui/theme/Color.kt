@@ -9,3 +9,9 @@ val Pink80 = Color(0xFFEFB8C8)
 val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
+
+//Paleta de cores da App
+val BlueGM = Color(0xFF3C486B)
+val GrayGM = Color(0xFFF0F0F0)
+val YellowGM = Color(0xFFF9D949)
+val RedGM =  Color(0xFFF45050)
